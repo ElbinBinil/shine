@@ -1,0 +1,13 @@
+#READ ME BEFORE YOU CLONE THIS 
+
+=================================================
+THIS IS A WEBSITE CODE OF SHINE ENTERPRISES STORE
+=================================================
+
+AUTHOR OF THE CODE: ELBIN BINIL
+LICENCED TO: SHINE ENTERPRISES
+DEVELOPED BY
+            ©2020 INSANE DEVELOPERS
+            PUBLISHED IN GITHUB
+            THANKS TO BOOTSTRAP 
+            THANKS TO JQUERY
